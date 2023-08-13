@@ -1,0 +1,8 @@
+name: ManageMoney
+version: '${project.version}'
+main: fr.anthonylry.manage.ManageMoney
+api-version: '1.20'
+commands:
+  givemoney:
+  removemoney:
+  resetmoney:
